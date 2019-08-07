@@ -1,1 +1,1 @@
-# The bundle of mods and configs for Immersive-Twilight setup
+# The bundle of mods and configs for Immersive-Twilight
